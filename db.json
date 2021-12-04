@@ -1,0 +1,59 @@
+{
+  "contacts": [
+    {
+      "id": "7169e609-89ae-4d48-a66c-42acc9e01490",
+      "name": "kuphal",
+      "email": "kuphal.broderick@yahoo.com"
+    },
+    {
+      "id": "1a1d03eb-6593-47ae-81ea-d6df14781543",
+      "name": "acrist",
+      "email": "acrist@hotmail.com"
+    },
+    {
+      "id": "9b64ee60-a0c2-4a11-9e34-d52f0bd9facd",
+      "name": "rowe",
+      "email": "rowe.elena@hyatt.com"
+    },
+    {
+      "id": "8cd6f6d1-a72b-4643-824b-010746b15c8e",
+      "name": "kris",
+      "email": "kris.destinee@funk.com"
+    },
+    {
+      "id": "a6e54902-e86a-4678-91cc-a3826f736a53",
+      "name": "mona20",
+      "email": "mona20@yahoo.com"
+    },
+    {
+      "id": "48a38c49-ce75-40c0-af35-bb03817eb921",
+      "name": "emmie",
+      "email": "emmie.brekke@yahoo.com"
+    },
+    {
+      "id": "d8b6742e-498b-4686-a4ff-94fed69728cc",
+      "name": "crobel",
+      "email": "crobel@treutel.com"
+    },
+    {
+      "id": "fdbb3b90-1691-4677-b245-807511471f30",
+      "name": "carmen91",
+      "email": "carmen91@hotmail.com"
+    },
+    {
+      "id": "f9964c75-3aa1-4053-ab82-b440709a2f4c",
+      "name": "lonzo80",
+      "email": "lonzo80@mertz.net"
+    },
+    {
+      "id": "22d24e8d-f375-4da7-bc13-4dcef14f623d",
+      "name": "hauck",
+      "email": "hauck.kavon@moen.com"
+    },
+    {
+      "id": "7a9e55c1-481e-4f13-a31a-2b946af5457f",
+      "name": "shadow",
+      "email": "shadow.boxing@gmail.com"
+    }
+  ]
+}
